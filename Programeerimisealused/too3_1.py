@@ -134,5 +134,3 @@ try:
     print(f"Nullide arv: {nullid}")
 except ValueError:
     print("Palun sissestage arv.")
-
-#7. Väljastada ekraanile arvud, mis on K-ga jaguvad vahemikust [A, B].
